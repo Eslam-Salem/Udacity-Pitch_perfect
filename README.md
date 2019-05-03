@@ -1,2 +1,9 @@
-# Udacity-Pitch_perfect
-an iPhone app that will allow users to record their voice and will then modulate the recorded audio to sound like a Chipmunk or Darth Vader. This app will also let the user speed up or slow down the rate of playback, and experience fun echo and reverb effects.
+# Udacity-Submission
+This repository contains the project submission for udacity.com project work "PitchPerfect“ during my iOS developer nanodegree certification program.
+
+
+# APP-description
+ This app records a conversation with you and a friend and plays it back to make you sound like a chipmunk or Darth Vader! Currently Six different Voice-Effects are supported.
+
+
+
